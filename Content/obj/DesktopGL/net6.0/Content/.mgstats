@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/fujin/source/repos/Lab0/Lab0/Content/Luigi_Death.png","C:/Users/fujin/source/repos/Lab0/Lab0/Content/bin/DesktopGL/Content/Luigi_Death.xnb","TextureProcessor","Texture2DContent",240,869,0.1200537
+"C:/Users/fujin/source/repos/Lab0/Lab0/Content/Luigi_Font.spritefont","C:/Users/fujin/source/repos/Lab0/Lab0/Content/bin/DesktopGL/Content/Luigi_Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1408946
+"C:/Users/fujin/source/repos/Lab0/Lab0/Content/Luigi_Jumping.png","C:/Users/fujin/source/repos/Lab0/Lab0/Content/bin/DesktopGL/Content/Luigi_Jumping.xnb","TextureProcessor","Texture2DContent",276,1109,0.0013261
+"C:/Users/fujin/source/repos/Lab0/Lab0/Content/Luigi_Standing.png","C:/Users/fujin/source/repos/Lab0/Lab0/Content/bin/DesktopGL/Content/Luigi_Standing.xnb","TextureProcessor","Texture2DContent",254,853,0.000985
