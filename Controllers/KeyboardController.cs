@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // Reference: https://docs.monogame.net/api/Microsoft.Xna.Framework.Input.KeyboardInput.html
+// Reference: https://professorkirby.github.io/cse3902web/SchAU.html keyboardcontroller.cs
 namespace Lab0.Controllers
 {
     public class KeyboardController : IController
@@ -45,6 +46,9 @@ namespace Lab0.Controllers
             }
         }
 
+        public void ProcessInput()
+        {
 
+        }
     }
 }
